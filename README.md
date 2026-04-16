@@ -1,6 +1,6 @@
 🚀 S3 Static Site CI/CD Pipeline
 
-This project demonstrates how to deploy a static website to AWS S3 using a fully automated CI/CD pipeline with GitHub Actions. Every push to the repository triggers an automated build and deployment process to an S3 bucket.
+This project demonstrates how to build a CI/CD pipeline using GitHub Actions to automatically deploy a static website to AWS S3. Whenever code is pushed, the pipeline runs, sets up the environment, and uploads the files to S3, ensuring continuous deployment.
 
 📌 Features
 ⚡ Automated deployment using GitHub Actions
